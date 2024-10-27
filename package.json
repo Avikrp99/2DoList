@@ -1,0 +1,26 @@
+{
+  "name": "2dolist",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Avikrp99/2DoList.git"
+  },
+  "keywords": [
+    "todo",
+    "list",
+    "todolist"
+  ],
+  "author":{
+    
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Avikrp99/2DoList/issues"
+  },
+  "homepage": "https://github.com/Avikrp99/2DoList#readme"
+}
