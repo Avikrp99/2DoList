@@ -13,10 +13,11 @@
   "keywords": [
     "todo",
     "list",
-    "todolist"
+    "todo list"
   ],
   "author":{
-    
+    "name": "Avinash Kumar",
+    "email": "avinashbuddy01@gmail.com"
   },
   "license": "ISC",
   "bugs": {
